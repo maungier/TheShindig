@@ -1,8 +1,7 @@
 body {
+  background: #faf; 
+}
 
-  background: #faf;
-  
-  div.powered_by {
+.powered_by {
     visibility: hidden !important;
     }
-  }
