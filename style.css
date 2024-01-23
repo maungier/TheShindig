@@ -2,10 +2,7 @@ body {
 
   background: #faf;
   
-  /*background: content-box radial-gradient(white, rgb(222, 220, 222));
-
-    background-image: url('/images/bear.png');
-    background-repeat: repeat;
-    background-attachment: fixed;
-    background-size: 100% 100%;*/
+  div.powered_by {
+    visibility: hidden !important;
+    }
   }
